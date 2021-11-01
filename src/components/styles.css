@@ -1,10 +1,35 @@
+:root {
+    $primary-color: color: #300095;
+    $primary-font: font-family: 'Poppins', sans-serif;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     color: #300095;
 }
 
+
 h1 {
     font-weight: 800;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+h5 {font-weight: 400;
+}
+
+p {
+    font-weight: 300;
 }
 
 .navbar .nav-menu {
