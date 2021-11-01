@@ -19,10 +19,13 @@ h3 {
 h4 {
     font-weight: 500;
 }
+h5 {
+    font-weight: 400;
+}
 
 
 p {
-    font-weight: 400;
+    font-weight: 350;
 }
 
 .navbar .nav-menu {
