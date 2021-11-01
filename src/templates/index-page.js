@@ -7,6 +7,7 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
+import "../components/styles.css"
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
