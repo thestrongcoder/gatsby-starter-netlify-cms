@@ -72,7 +72,7 @@ p {
 /* +tablet-only  */
 
 .blog-list-item .featured-thumbnail {
-    flex-basis: 100%: 
+    flex-basis: 100%;
 }    
 
 /* +mobile  */
@@ -80,8 +80,7 @@ p {
     display: block
   }
   .blog-list-item .featured-thumbnail {
-    text-align: center
-    max-width: 100%
-    radius: 2px
-    margin: 0 0 1em
+    text-align: center;
+    max-width: 100%;
+    margin: 0 0 1em;
 }
