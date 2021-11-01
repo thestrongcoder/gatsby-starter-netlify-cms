@@ -5,6 +5,7 @@ import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import "../components/styles.css";
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({

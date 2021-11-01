@@ -8,6 +8,7 @@ import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
+import "../components/styles.css";
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
