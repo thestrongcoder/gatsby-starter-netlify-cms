@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Get a customised plan for your business
 image: /img/home-jumbotron.jpg
 heading: Get a customised plan for your business
 subheading: We help clients keep track of their financials and taxation needs, allowing them to get back to doing what they enjoy
