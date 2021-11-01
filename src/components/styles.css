@@ -6,3 +6,8 @@ body {
 h1 {
     font-weight: 800;
 }
+
+.navbar .nav-menu {
+    align-items: flex-end;
+
+}
