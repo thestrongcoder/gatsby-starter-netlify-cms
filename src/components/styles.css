@@ -11,3 +11,21 @@ h1 {
     align-items: flex-end;
 
 }
+
+.btn {
+    display: inline-block;
+    padding: 12px 16px 10px;
+    font-size: 18px;
+    font-size: 1rem;
+    line-height: 1.25;
+    background-color: #fff;
+    border-radius: .25rem;
+    text-decoration: none;
+    font-weight: 500;
+    color: #300095;
+    text-align: center;
+    -webkit-box-shadow: inset 0 0 0 2px #3464e9;
+    box-shadow: inset 0 0 0 2px rgb(39, 105, 228);
+    -webkit-transition: all .15s ease;
+    transition: all .15s ease;
+} 
